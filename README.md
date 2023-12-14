@@ -1,7 +1,6 @@
 ## Oi, eu sou Nathan
 
 ```bash
-javascript
 const developer = {
   	name: "Nathan",
   	role: "Front-End Developer",
